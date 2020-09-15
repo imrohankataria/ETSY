@@ -1,0 +1,24 @@
+{
+    "id": "38A79833",
+    "path": "~/Desktop/Small_Projects/ETSYTracker/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "3227424631",
+    "contents": "",
+    "dirty": false,
+    "created": 1593714362359.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "84,45",
+        "scrollLine": "78"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600204150,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600204150826,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,12 @@
+name: ETSYTracker
+title: ETSYTracker
+username:
+account: etsy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2389654
+bundleId: 3219914
+url: https://etsy.shinyapps.io/ETSYTracker/
+when: 1591126783.24947
+asMultiple: FALSE
+asStatic: FALSE
